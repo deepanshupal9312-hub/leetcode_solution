@@ -6,6 +6,7 @@ My Leetcode Solutions
 ## Array
 |  |
 | ------- |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
 |  |
