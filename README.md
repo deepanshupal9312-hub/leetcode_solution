@@ -9,6 +9,7 @@ My Leetcode Solutions
 | [0674-longest-continuous-increasing-subsequence](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2747-count-zero-request-servers) |
 ## Two Pointers
@@ -46,4 +47,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2747-count-zero-request-servers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
