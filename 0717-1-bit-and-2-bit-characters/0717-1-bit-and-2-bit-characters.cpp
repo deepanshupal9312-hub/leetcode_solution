@@ -10,6 +10,7 @@ public:
         }
         
         if (bits.size() == 1) {
+            return true;
         } 
             return bits[0] == 0; 
     }
