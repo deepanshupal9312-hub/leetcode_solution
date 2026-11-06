@@ -12,13 +12,11 @@ public:
         
         sort(logs.begin(), logs.end(), [](const vector<int>& a, const vector<int>& b) { return a[1] < b[1]; });
         
-        // 2. Create and sort query indices based on their values (avoids making pairs)
         iota(q_indices.begin(), q_indices.end(), 0);
         sort(q_indices.begin(), q_indices.end(), [&](int i, int j) { return queries[i] < queries[j]; });
         
         int left = 0, right = 0, unique_servers = 0;
         
-        // 3. Sliding Window
         for (int idx : q_indices) {
             int a = queries[idx] - x, b = queries[idx];
             
