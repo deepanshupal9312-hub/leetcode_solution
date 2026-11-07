@@ -33,6 +33,7 @@ My Leetcode Solutions
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0771-jewels-and-stones) |
 ## Simulation
 |  |
 | ------- |
@@ -45,6 +46,7 @@ My Leetcode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [2747-count-zero-request-servers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2747-count-zero-request-servers) |
 ## Sliding Window
 |  |
