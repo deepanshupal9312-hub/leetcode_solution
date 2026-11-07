@@ -56,4 +56,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1882-process-tasks-using-servers) |
+## Math
+|  |
+| ------- |
+| [0728-self-dividing-numbers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
