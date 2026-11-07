@@ -11,6 +11,7 @@ My Leetcode Solutions
 | [0717-1-bit-and-2-bit-characters](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1882-process-tasks-using-servers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2747-count-zero-request-servers) |
 ## Two Pointers
 |  |
@@ -51,4 +52,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0724-find-pivot-index) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
