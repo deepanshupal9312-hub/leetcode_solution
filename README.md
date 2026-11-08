@@ -11,6 +11,7 @@ My Leetcode Solutions
 | [0717-1-bit-and-2-bit-characters](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1267-count-servers-that-communicate](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1882-process-tasks-using-servers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2747-count-zero-request-servers) |
@@ -64,4 +65,24 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0728-self-dividing-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
