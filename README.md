@@ -11,6 +11,7 @@ My Leetcode Solutions
 | [0717-1-bit-and-2-bit-characters](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0804-unique-morse-code-words](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0804-unique-morse-code-words) |
 | [1267-count-servers-that-communicate](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -36,6 +37,7 @@ My Leetcode Solutions
 | [0657-robot-return-to-origin](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0804-unique-morse-code-words) |
 ## Simulation
 |  |
 | ------- |
@@ -50,6 +52,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0804-unique-morse-code-words) |
 | [2747-count-zero-request-servers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2747-count-zero-request-servers) |
 ## Sliding Window
 |  |
