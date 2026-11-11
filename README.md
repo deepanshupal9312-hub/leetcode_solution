@@ -72,6 +72,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0728-self-dividing-numbers) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -100,4 +101,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3693-climbing-stairs-ii) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
