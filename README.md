@@ -22,6 +22,7 @@ My Leetcode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0392-is-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
@@ -36,6 +37,7 @@ My Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0771-jewels-and-stones) |
@@ -101,6 +103,7 @@ My Leetcode Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0392-is-subsequence) |
 | [3693-climbing-stairs-ii](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
