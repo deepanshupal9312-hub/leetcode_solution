@@ -12,6 +12,7 @@ My Leetcode Solutions
 | [0724-find-pivot-index](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [1267-count-servers-that-communicate](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -42,6 +43,7 @@ My Leetcode Solutions
 | [0709-to-lower-case](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 ## Simulation
 |  |
 | ------- |
