@@ -19,6 +19,7 @@ My Leetcode Solutions
 | [1882-process-tasks-using-servers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
@@ -64,10 +65,12 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0724-find-pivot-index) |
+| [3364-minimum-positive-sum-subarray](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
