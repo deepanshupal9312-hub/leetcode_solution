@@ -15,6 +15,7 @@ My Leetcode Solutions
 | [0806-number-of-lines-to-write-string](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [1267-count-servers-that-communicate](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2747-count-zero-request-servers) |
@@ -70,6 +71,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0724-find-pivot-index) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
@@ -80,6 +82,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0728-self-dividing-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Depth-First Search
 |  |
@@ -109,6 +112,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0392-is-subsequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
