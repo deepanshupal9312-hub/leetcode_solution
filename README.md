@@ -46,12 +46,14 @@ My Leetcode Solutions
 | [0771-jewels-and-stones](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0682-baseball-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
