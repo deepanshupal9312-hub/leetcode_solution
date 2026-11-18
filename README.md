@@ -40,6 +40,7 @@ My Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0392-is-subsequence](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0709-to-lower-case) |
@@ -62,6 +63,7 @@ My Leetcode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0804-unique-morse-code-words) |
 | [2747-count-zero-request-servers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2747-count-zero-request-servers) |
@@ -84,6 +86,7 @@ My Leetcode Solutions
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0728-self-dividing-numbers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0728-self-dividing-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
