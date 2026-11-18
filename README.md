@@ -41,6 +41,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0709-to-lower-case) |
@@ -59,6 +60,7 @@ My Leetcode Solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
@@ -124,4 +126,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
