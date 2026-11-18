@@ -47,6 +47,7 @@ My Leetcode Solutions
 | [0804-unique-morse-code-words](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Simulation
 |  |
 | ------- |
