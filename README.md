@@ -32,6 +32,7 @@ My Leetcode Solutions
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
@@ -96,6 +97,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0013-roman-to-integer) |
+| [0441-arranging-coins](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0728-self-dividing-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
