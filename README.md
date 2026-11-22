@@ -54,6 +54,7 @@ My Leetcode Solutions
 | [0771-jewels-and-stones](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Simulation
