@@ -14,6 +14,7 @@ My Leetcode Solutions
 | [0804-unique-morse-code-words](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [1267-count-servers-that-communicate](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -87,6 +88,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
@@ -100,6 +102,7 @@ My Leetcode Solutions
 | [0013-roman-to-integer](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0441-arranging-coins](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0728-self-dividing-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Depth-First Search
@@ -142,4 +145,12 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
