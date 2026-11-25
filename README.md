@@ -164,4 +164,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3411-maximum-subarray-with-equal-products) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
