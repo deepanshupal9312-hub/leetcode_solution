@@ -66,6 +66,7 @@ My Leetcode Solutions
 | [0682-baseball-game](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0682-baseball-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3360-stone-removal-game) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +107,7 @@ My Leetcode Solutions
 | [0728-self-dividing-numbers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0728-self-dividing-numbers) |
 | [1352-product-of-the-last-k-numbers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Depth-First Search
