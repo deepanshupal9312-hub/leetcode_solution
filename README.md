@@ -171,6 +171,7 @@ My Leetcode Solutions
 | ------- |
 | [0175-combine-two-tables](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0577-employee-bonus) |
 | [0627-swap-sex-of-employees](https://github.com/deepanshupal9312-hub/leetcode_solution/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
